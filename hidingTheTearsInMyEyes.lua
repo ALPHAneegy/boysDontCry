@@ -8671,7 +8671,6 @@ linkLabel.TextSize = 12
 linkLabel.TextXAlignment = Enum.TextXAlignment.Left
 linkLabel.Parent = frame
 
--- Copy button
 local copyBtn = Instance.new("TextButton")
 copyBtn.Name = "CopyBtn"
 copyBtn.Size = UDim2.new(0, 80, 0, 22)
