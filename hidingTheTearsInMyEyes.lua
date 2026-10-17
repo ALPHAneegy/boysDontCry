@@ -1,6 +1,8 @@
 --!nocheck
 --!nolint
 --Repaired by Zosyn and V.Roy!
+--Zosny server https://discord.gg/wdSBgh2JtH
+--V.Roy server https://discord.gg/9sxxubxeJM
 
 local runUnlockAllCosmetics
 if getgenv and type(getgenv) == "function" and getgenv().meow_cleanup then pcall(function() getgenv().meow_cleanup() end) end
