@@ -1,6 +1,6 @@
 --!nocheck
 --!nolint
---Repaired by the one and only, Zosyn (Zo5yn)!
+--Repaired by Zosyn and V.Roy!
 
 local runUnlockAllCosmetics
 if getgenv and type(getgenv) == "function" and getgenv().meow_cleanup then pcall(function() getgenv().meow_cleanup() end) end
